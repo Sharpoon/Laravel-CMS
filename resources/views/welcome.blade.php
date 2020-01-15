@@ -1,7 +1,7 @@
 @extends('layouts.blog')
 
 @section('title')
-Saas Blog
+Blog
 @endsection
 
 @section('header')
@@ -19,7 +19,7 @@ Saas Blog
     </div>
 
   </div>
-</header><!-- /.header -->  
+</header><!-- /.header -->
 @endsection
 
 @section('content')
